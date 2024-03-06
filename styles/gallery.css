@@ -25,3 +25,9 @@ h1{
     padding-top: 50px;
     flex-wrap: wrap;
 }
+
+.photo:hover {
+    transform: scale(1.5,1.5);
+    border-radius: 5px;
+    color: #FFFFFF;
+}
